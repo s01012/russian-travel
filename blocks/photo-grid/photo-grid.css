@@ -19,6 +19,7 @@
     grid-template-columns: repeat(2, auto);
     width: calc(100% -  48px);
     gap: 16px;
+    margin-bottom: 88px;
   }
 }
 
@@ -27,5 +28,6 @@
     grid-template-columns: auto;
     gap: 12px;
     width: calc(100% - 32px);
+    margin-bottom: 64px;
   }
 }
